@@ -6,9 +6,6 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import requests
 
-
-__author__ = 'Tarun'
-
 default_timeout = 10
 
 class count_zero_or_invisible(object):
